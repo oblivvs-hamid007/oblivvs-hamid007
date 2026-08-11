@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm <u>hamid</u>, a first-year Computer Science student specializing in Data Science.
+I'm <u>hamid</u>, a Computer Science student specializing in Data Science.
 
 I like exploring <u>low-level systems programming</u>, configuring minimal Linux environments, and building software from scratch.
 
